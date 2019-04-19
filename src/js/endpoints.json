@@ -1,0 +1,4 @@
+{
+    "movies": "https://private-df8a0-api722.apiary-mock.com/api/search/v1/movies",
+    "image": "https://image.tmdb.org/t/p/w185"
+}
